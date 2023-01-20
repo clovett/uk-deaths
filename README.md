@@ -20,6 +20,5 @@ Now what I don't understand is that 'Ever vaccinated' should essentially be show
 
 When you look at all the charts, it also shows many of these vaccinated groups are doing very poorly.
 
-Plotting data from https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/datasets/deathsbyvaccinationstatusengland
 
 See [Graphs](graph.html).
