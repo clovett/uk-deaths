@@ -21,4 +21,4 @@ Now what I don't understand is that 'Ever vaccinated' should essentially be show
 When you look at all the charts, it also shows many of these vaccinated groups are doing very poorly.
 
 
-See [Graphs](graph.html).
+See [Charts](https://clovett.github.io/uk-deaths/).
